@@ -1,6 +1,6 @@
 # Fluent New Tab
 
-A New Tab page designed following Microsoft's Fluent Design, with Reveal Effects and more.
+Tab mới theo phong cách Fluent Design của Microsoft
 
 ![image](https://user-images.githubusercontent.com/30421456/157072440-8a84a472-1a02-41c1-aec7-174fe0e98dd0.png)
 
@@ -21,7 +21,7 @@ Open a file picker, there you can select a custom image to be used as the backgr
 
 ### `backgroundImage.reset()`:
 
-Delete your custom image and use the default background image again.
+Xóa hình nền tự chọn của bạn và sử dụng lại hình nền mặc định.
 
 ### `siteConfig.addSite()`:
 
