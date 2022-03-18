@@ -17,7 +17,7 @@ Configuration is currently handled through a CLI interface. To use it, open the 
 
 ### `backgroundImage.choose()`:
 
-Open a file picker, there you can select a custom image to be used as the background. Mustn't be larger than 2MB.
+Chọn một tệp để làm hình nền mới. Kích cỡ không quá 2MB.
 
 ### `backgroundImage.reset()`:
 
